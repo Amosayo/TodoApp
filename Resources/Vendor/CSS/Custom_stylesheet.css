@@ -1,0 +1,25 @@
+body{
+  background-color: #fff;
+  margin: 0 auto;
+  
+}
+
+#taskbtn button{
+  margin: 1.5em o.6em;
+  padding: 0.5em 2.4em;
+}
+
+tr.btnedit{
+  color: lightsalmon;
+  cursor: pointer;
+}
+
+.success{
+  background-color: lightgreen;
+  padding: 1em;
+}
+
+.error{
+  background-color: tomato;
+  padding: 1em;
+}
